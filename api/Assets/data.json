@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "Luke Skywalker",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960132/Star%20Wars/luke-skywalker_c5nnks.png",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960135/Star%20Wars/luke-skywalker-stance_yyw3ks.png"
+  },
+  {
+    "Id": 4,
+    "Name": "Darth Vader",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960129/Star%20Wars/darth-vader_wggqfr.png",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960129/Star%20Wars/darth-vader-stance_stog6l.png"
+  },
+  {
+    "Id": 10,
+    "Name": "Obi-Wan Kenobi",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960131/Star%20Wars/obi-wan-kenobi_gutg5a.jpg",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960131/Star%20Wars/obi-wan-stance_aiofds.png"
+  },
+  {
+    "Id": 44,
+    "Name": "Darth Maul",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960129/Star%20Wars/darth-maul_lscdnr.jpg",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960130/Star%20Wars/darth-maul-stance_gpadw3.png"
+  },
+  {
+    "Id": 51,
+    "Name": "Mace Windu",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960131/Star%20Wars/mace-windu_d1yhv2.png",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960131/Star%20Wars/mace-windu-stance_p2udmv.png"
+  },
+  {
+    "Id": 67,
+    "Name": "Count Dooku",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960129/Star%20Wars/count-dooku_bk9qbo.jpg",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682961291/Star%20Wars/count-dooku-stance_xg0ipd.png"
+  },
+  {
+    "Id": 20,
+    "Name": "Yoda",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960133/Star%20Wars/yoda_fvlees.jpg",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960132/Star%20Wars/yoda-stance_yddcsz.png"
+  },
+  {
+    "Id": 22,
+    "Name": "Boba Fett",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960129/Star%20Wars/boba-fett_p2zaok.png",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1682960130/Star%20Wars/boba-fett-stance_dodenk.png"
+  },
+  {
+    "Id": 14,
+    "Name": "Han Solo",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1684006071/Star Wars/pfagfix79dicctpphfnf.jpg",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1684006072/Star Wars/ewzsq0djfeckhbkkwgld.png"
+  },
+  {
+    "Id": 21,
+    "Name": "Palpatine",
+    "Image": "https://res.cloudinary.com/erenaspire7/image/upload/v1684762747/Star Wars/xtajsbocwemmwicq0seh.gif",
+    "StanceImage": "https://res.cloudinary.com/erenaspire7/image/upload/v1684762750/Star Wars/sipfoilqjath0g6bo2wy.png"
+  }
+]
